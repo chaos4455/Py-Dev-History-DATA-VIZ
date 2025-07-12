@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/chaos4455/Py-Dev-History-DATA-VIZ/main/assets/project_logo.png" alt="Project Logo" width="150"/>
   <h1>📊 Py-Dev-History-DATA-VIZ 📈</h1>
   <p>
     <strong>EN:</strong> A powerful tool to scan your local Python codebases and generate beautiful, insightful visualizations about their development history.

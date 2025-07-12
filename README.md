@@ -110,7 +110,7 @@ Siga estes passos simples para rodar a análise em seus próprios projetos.
 4.  **Execute o Script:**
     Rode o script principal a partir do seu terminal:
     ```bash
-    python main.py
+    python Py-Dev-History-DATA-VIZ.py
     ```
     O script pedirá que você insira o caminho do diretório que deseja analisar. Se você apenas pressionar `Enter`, ele usará o diretório padrão definido na variável `DEFAULT_DIR` dentro do script.
 
@@ -235,7 +235,7 @@ Follow these simple steps to run the analysis on your own projects.
 4.  **Run the Script:**
     Run the main script from your terminal:
     ```bash
-    python main.py
+    python Py-Dev-History-DATA-VIZ.py
     ```
     The script will prompt you to enter the path of the directory you want to analyze. If you just press `Enter`, it will use the default directory defined in the `DEFAULT_DIR` variable within the script.
 
